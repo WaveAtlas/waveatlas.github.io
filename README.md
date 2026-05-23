@@ -1,4 +1,4 @@
-# Quasar App (package.json)
+# Quasar App (quasar-project)
 
 A Quasar Project
 
